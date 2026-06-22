@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dépannage informatique Vittel &amp; Contrexéville | ACDJ Informatique</title>
+  <meta name="description" content="ACDJ Informatique intervient à Vittel et Contrexéville pour le dépannage informatique, la réparation ordinateur, l'assistance à domicile, l'installation imprimante et les devis." />
+  <link rel="icon" href="assets/images/logo.png" />
+  <link rel="preconnect" href="data:," />
+  <link rel="stylesheet" href="assets/fonts/fonts.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="top">
+    <div class="header__inner">
+      <a class="brand" href="#top" aria-label="ACDJ Informatique - accueil">
+        <img class="brand__logo" src="assets/images/logo.png" alt="Logo ACDJ Informatique" width="32" height="32" />
+        <span class="brand__name">ACDJ Informatique</span>
+      </a>
+
+      <nav class="nav" aria-label="Navigation principale">
+        <a href="#top">Accueil</a>
+        <a href="#services">Services</a>
+        <a href="#pricing">Tarifs</a>
+        <a href="contact-devis/">Contact</a>
+        <a href="#hydrogel">Boutique</a>
+        <a href="#faq">FAQ</a>
+        <a href="#avis">Avis</a>
+        <a href="#" class="nav__client">Espace client</a>
+      </nav>
+
+      <a class="phone-btn" href="tel:+33652246647">
+        <span>06 52 24 66 47</span>
+        <svg class="ico" viewBox="0 0 256 256" aria-hidden="true"><path d="M222.37,158.46l-47.11-21.11-.13-.06a16,16,0,0,0-15.17,1.4,8.12,8.12,0,0,0-.75.56L134.87,160c-15.42-7.49-31.34-23.29-38.83-38.51l20.78-24.71c.2-.25.39-.5.57-.77a16,16,0,0,0,1.32-15.06l0-.12L97.54,33.64a16,16,0,0,0-16.62-9.52A56.26,56.26,0,0,0,32,80c0,79.4,64.6,144,144,144a56.26,56.26,0,0,0,55.88-48.92A16,16,0,0,0,222.37,158.46Z"></path></svg>
+      </a>
+
+      <button class="burger" aria-label="Ouvrir le menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="hero__content">
+      <p class="eyebrow">• Dépannage informatique à Vittel &amp; Contrexéville</p>
+      <h1 class="hero__title">Dépannage informatique à Vittel et Contrexéville</h1>
+      <h2 class="hero__sub">Réparation ordinateur, assistance à domicile et devis clair.</h2>
+      <p class="hero__text">ACDJ Informatique vous aide pour les pannes d'ordinateur, les imprimantes, les smartphones, la récupération de données et les besoins informatiques du quotidien.</p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="contact-devis/">
+          Demander un devis
+          <svg class="ico" viewBox="0 0 256 256" aria-hidden="true"><path d="M200,64V168a8,8,0,0,1-16,0V83.31L69.66,197.66a8,8,0,0,1-11.32-11.32L172.69,72H88a8,8,0,0,1,0-16H192A8,8,0,0,1,200,64Z"></path></svg>
+        </a>
+        <a class="btn btn--ghost" href="#services">En savoir plus</a>
+      </div>
+
+      <div class="partners">
+        <h3 class="partners__title">Nos Partenaires</h3>
+        <div class="partners__row">
+          <img src="assets/images/partner-belkin.webp" alt="Belkin" />
+          <img src="assets/images/partner-fairplay.webp" alt="Fairplay" />
+          <img src="assets/images/partner-utopya.webp" alt="Utopya" />
+          <img src="assets/images/partner-mypart.webp" alt="MyPart" />
+          <img src="assets/images/partner-amazon-1.webp" alt="Amazon Business" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ESTIMATION FORM ============ -->
+  <section class="estimation" id="contact">
+    <form class="est-card" novalidate>
+      <h2 class="est-card__title">Estimation Gratuite</h2>
+      <p class="est-card__sub">Recevez une estimation instantanée pour votre réparation.</p>
+
+      <label class="field"><span>Nom Complet</span>
+        <input type="text" name="nom" placeholder="Jean Dupont" />
+      </label>
+      <div class="field-row">
+        <label class="field"><span>Email</span>
+          <input type="email" name="email" placeholder="jean@exemple.com" />
+        </label>
+        <label class="field"><span>Téléphone</span>
+          <input type="tel" name="tel" placeholder="06 00 00 00 00" />
+        </label>
+      </div>
+      <div class="field-row">
+        <label class="field"><span>Intervention</span>
+          <select name="intervention">
+            <option>À domicile</option>
+            <option>À distance</option>
+            <option>En atelier</option>
+          </select>
+        </label>
+        <label class="field"><span>Code Postal</span>
+          <input type="text" name="cp" placeholder="88800" />
+        </label>
+      </div>
+      <label class="field"><span>Description du problème</span>
+        <textarea name="desc" rows="2" placeholder="Ex: Écran iPhone 12 cassé et batterie faible..."></textarea>
+      </label>
+      <button type="submit" class="btn btn--blue">Obtenir mon estimation</button>
+    </form>
+  </section>
+
+  <!-- ============ SERVICES ============ -->
+  <section class="services" id="services">
+    <h2 class="services__title section-display">Nos Services</h2>
+    <div class="services__grid">
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-smartphone-repair.webp" alt="Réparation de smartphones par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Réparation smartphone Vittel</h3>
+          <p class="svc-card__desc">Diagnostic smartphone à Vittel : écran, batterie, charge, problème logiciel ou transfert selon le modèle et la panne.</p>
+          <p class="svc-card__price">À partir de seulement 50€ (hors pièces) &nbsp;&nbsp;&nbsp;Déplacements (0,65€/km)</p>
+          <a class="btn btn--dark" href="reparation-smartphone-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-computer-install.webp" alt="Installation d'ordinateur par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Réparation ordinateur Vittel</h3>
+          <p class="svc-card__desc">Diagnostic et remise en état de PC portable ou fixe : lenteurs, virus, Windows, sauvegarde et configuration.</p>
+          <p class="svc-card__price">Forfaits dès 25€ selon diagnostic</p>
+          <a class="btn btn--dark" href="reparation-ordinateur-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-smartphone-install.webp" alt="Installation de smartphones par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Assistance à domicile Vittel</h3>
+          <p class="svc-card__desc">Aide informatique à domicile pour particuliers et seniors : mails, imprimante, smartphone, ordinateur et conseils.</p>
+          <p class="svc-card__price">Sur devis selon le besoin</p>
+          <a class="btn btn--dark" href="assistance-informatique-domicile-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-printer-install.webp" alt="Installation d'imprimantes par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Installation imprimante Vittel</h3>
+          <p class="svc-card__desc">Configuration d'imprimante USB, Wi-Fi ou réseau avec installation des pilotes et test d'impression.</p>
+          <p class="svc-card__price">À partir de seulement 75€ + Déplacements (0,65€/km)</p>
+          <a class="btn btn--dark" href="installation-imprimante-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-it-support.webp" alt="Dépannage informatique par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Dépannage informatique Vittel</h3>
+          <p class="svc-card__desc">Assistance locale pour ordinateur lent, panne logicielle, virus, problème de connexion ou configuration.</p>
+          <p class="svc-card__price">À partir de seulement 25€ + Déplacements (0,65€/km)</p>
+          <a class="btn btn--dark" href="depannage-informatique-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card svc-card--popular">
+        <span class="svc-card__badge">Le plus populaire</span>
+        <div class="svc-card__media"><img src="assets/images/service-drone.webp" alt="Service de drone par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Service drone Vosges</h3>
+          <p class="svc-card__desc">Prestation drone dédiée dans les Vosges pour prises de vue aériennes, projets professionnels et demandes spécifiques.</p>
+          <p class="svc-card__price">À partir de seulement 75€/h + Déplacements (0,65€/km) + Frais</p>
+          <a class="btn btn--dark" href="service-drone-vosges/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-it-support.webp" alt="Optimisation d'ordinateur par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Dépannage Contrexéville</h3>
+          <p class="svc-card__desc">Page locale pour les demandes de dépannage informatique à Contrexéville : ordinateur, imprimante et assistance.</p>
+          <p class="svc-card__price">Forfaits dès 25€ selon besoin</p>
+          <a class="btn btn--dark" href="depannage-informatique-contrexeville/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-computer-install.webp" alt="Récupération de données par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Récupération données Vittel</h3>
+          <p class="svc-card__desc">Sauvegarde, transfert et récupération de fichiers accessibles lorsque votre ordinateur ou support devient instable.</p>
+          <p class="svc-card__price">Sauvegarde incluse dans le forfait Ultra</p>
+          <a class="btn btn--dark" href="recuperation-donnees-vittel/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card">
+        <div class="svc-card__media"><img src="assets/images/service-printer-install.webp" alt="Installation de caisse pour entreprises par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Dépannage Neufchâteau</h3>
+          <p class="svc-card__desc">Page locale pour les demandes informatiques à Neufchâteau : dépannage, assistance, sauvegarde et imprimante.</p>
+          <p class="svc-card__price">Sur devis selon zone et besoin</p>
+          <a class="btn btn--dark" href="depannage-informatique-neufchateau/">Voir la page</a>
+        </div>
+      </article>
+
+      <article class="svc-card svc-card--center">
+        <div class="svc-card__media"><img src="assets/images/service-website.jpg" alt="Création de site web par ACDJ Informatique" /></div>
+        <div class="svc-card__body">
+          <h3>Dépannage Mirecourt</h3>
+          <p class="svc-card__desc">Page locale pour capter les demandes de dépannage informatique à Mirecourt et orienter vers un devis.</p>
+          <p class="svc-card__price">Sur devis selon zone et besoin</p>
+          <a class="btn btn--dark" href="depannage-informatique-mirecourt/">Voir la page</a>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ HYDROGEL PRODUCT ============ -->
+  <section class="hydrogel" id="hydrogel">
+    <div class="hydrogel__top">
+      <div class="hydrogel__media">
+        <img src="assets/images/hydrogel-compare-table.webp" alt="Tableau comparatif des différentes protections d'écran" />
+      </div>
+      <div class="hydrogel__text">
+        <h2>Protégez votre écran avec la technologie hydrogel ultime.</h2>
+        <p>Ultra-résistant, auto-réparant et parfaitement adapté à tous vos appareils – une protection qui dure.</p>
+        <a class="btn btn--primary btn--block" href="contact-devis/">Cliquez ici pour une protection immédiate.</a>
+        <span class="hydrogel__stock">Stock limité</span>
+      </div>
+    </div>
+
+    <h3 class="gammes-title">Différentes gammes disponibles</h3>
+    <div class="gammes">
+      <div class="gammes__photo">
+        <img src="assets/images/hydrogel-gallery-2.png" alt="Gamme de protections d'écran hydrogel" />
+      </div>
+      <div class="gammes__features">
+        <div class="feature">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l1.6 4.4L18 8l-4.4 1.6L12 14l-1.6-4.4L6 8l4.4-1.6L12 2z"/><path d="M19 13l.8 2.2L22 16l-2.2.8L19 19l-.8-2.2L16 16l2.2-.8L19 13z"/></svg>
+          <h4>Classique</h4>
+          <p>Clarté absolue</p>
+        </div>
+        <div class="feature">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 100 18 9 9 0 000-18zm0 2a7 7 0 010 14V5z"/></svg>
+          <h4>Matte</h4>
+          <p>Anti-traces &amp; anti-reflets</p>
+        </div>
+        <div class="feature">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 3v6c0 5-3.4 8.5-8 11-4.6-2.5-8-6-8-11V5l8-3z"/></svg>
+          <h4>Classique Anti-UV</h4>
+          <p>Filtre lumière bleue</p>
+        </div>
+        <div class="feature">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3" fill="#000"/><path d="M3 3l18 18" stroke="currentColor" stroke-width="2"/></svg>
+          <h4>Matte Anti-espion</h4>
+          <p>Confidentialité garantie</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="hydrogel__cta-band">
+      <h2>Hydrogel Ultra HD – La protection qui dure</h2>
+      <p>Clarté exceptionnelle, résistance optimale et garantie à vie. En cas de besoin, profitez d'un remplacement simple et rapide pour seulement 10 €.</p>
+      <p class="hydrogel__contact">📧 contact@acdj-informatique.com &nbsp;|&nbsp; 📞 06 52 24 66 47</p>
+    </div>
+  </section>
+
+  <!-- ============ PRICING ============ -->
+  <section class="pricing" id="pricing">
+    <header class="pricing__head">
+      <p class="eyebrow eyebrow--center">• TARIFS</p>
+      <h2 class="pricing__title section-display">Forfaits de Dépannages Informatique Adaptés à Vos Besoins</h2>
+      <p class="pricing__sub">Votre partenaire local pour tous vos problèmes informatiques à Vittel, Contrexéville et ses environs. Nos forfaits de dépannage sont conçus pour vous résoudre rapidement et efficacement vos problèmes techniques.</p>
+    </header>
+
+    <div class="plans">
+      <article class="plan">
+        <h3 class="plan__name">Basique</h3>
+        <p class="plan__tag">Petit forfait, petit prix - (crédit : 30 min)</p>
+        <p class="plan__price">25€</p>
+        <ul class="plan__list">
+          <li>Diagnostique et nettoyage</li>
+          <li>Installation logiciels</li>
+          <li>À domicile ou à distance</li>
+        </ul>
+        <a class="btn btn--outline" href="contact-devis/">Obtenir un devis</a>
+      </article>
+
+      <article class="plan plan--popular">
+        <span class="plan__badge">• Le plus populaire</span>
+        <h3 class="plan__name">Avancé</h3>
+        <p class="plan__tag">Là, ça se complique - (crédit : 60 min)</p>
+        <p class="plan__price">45€</p>
+        <ul class="plan__list">
+          <li>Forfait BASIQUE inclus</li>
+          <li>Optimisation système</li>
+          <li>Virus et publicités</li>
+        </ul>
+        <a class="btn btn--primary" href="contact-devis/">Obtenir un devis</a>
+      </article>
+
+      <article class="plan">
+        <h3 class="plan__name">Ultra</h3>
+        <p class="plan__tag">Grand remède ultime - (crédit : 120 min)</p>
+        <p class="plan__price">75€</p>
+        <ul class="plan__list">
+          <li>Forfaits BASIQUE et AVANCÉ inclus</li>
+          <li>Réinstallation Windows</li>
+          <li>Sauvegarde données</li>
+        </ul>
+        <a class="btn btn--outline" href="contact-devis/">Obtenir un devis</a>
+      </article>
+    </div>
+
+    <ul class="pricing__assurances">
+      <li>• Services de confiance</li>
+      <li>• Aucun engagement</li>
+      <li>• Dépannages à moindre coûts</li>
+    </ul>
+  </section>
+
+  <!-- ============ ZONES ============ -->
+  <section class="zones" id="zones">
+    <header class="zones__head">
+      <p class="eyebrow eyebrow--center">• ZONES D'INTERVENTION</p>
+      <h2 class="zones__title section-display">Dépannage informatique local</h2>
+      <p class="zones__sub">Pages SEO prioritaires pour capter les recherches locales à Vittel, Contrexéville, Neufchâteau et Mirecourt.</p>
+    </header>
+    <div class="zones__grid">
+      <a class="zone-link" href="depannage-informatique-vittel/">Dépannage informatique Vittel</a>
+      <a class="zone-link" href="depannage-informatique-contrexeville/">Dépannage informatique Contrexéville</a>
+      <a class="zone-link" href="depannage-informatique-neufchateau/">Dépannage informatique Neufchâteau</a>
+      <a class="zone-link" href="depannage-informatique-mirecourt/">Dépannage informatique Mirecourt</a>
+    </div>
+  </section>
+
+  <!-- ============ FAQ + QUESTION FORM ============ -->
+  <section class="faq" id="faq">
+    <h2 class="faq__title">Pourquoi choisir ACDJ Informatique ?</h2>
+    <div class="faq__layout">
+      <div class="faq__list">
+        <details class="faq-item">
+          <summary>Proposez-vous un service de réparation express ?<span class="faq-item__icon"></span></summary>
+          <div class="faq-item__answer"><p>Oui, selon la disponibilité des pièces, de nombreuses réparations courantes peuvent être réalisées le jour même ou sous 24/48h.</p></div>
+        </details>
+        <details class="faq-item">
+          <summary>Proposez-vous des services pour les entreprises ?<span class="faq-item__icon"></span></summary>
+          <div class="faq-item__answer"><p>Absolument. Nous accompagnons les professionnels et TPE/PME pour le dépannage, l'installation et la maintenance de leur parc informatique.</p></div>
+        </details>
+        <details class="faq-item">
+          <summary>Proposez-vous un service d'installation à domicile ?<span class="faq-item__icon"></span></summary>
+          <div class="faq-item__answer"><p>Oui, nous nous déplaçons à votre domicile à Vittel, Contrexéville et alentours pour l'installation et la configuration de vos appareils.</p></div>
+        </details>
+        <details class="faq-item">
+          <summary>Quels types de produits dépannez-vous ?<span class="faq-item__icon"></span></summary>
+          <div class="faq-item__answer"><p>Ordinateurs, smartphones, imprimantes, tablettes et la plupart des appareils informatiques, qu'il s'agisse de pannes matérielles ou logicielles.</p></div>
+        </details>
+        <details class="faq-item">
+          <summary>Utilisez-vous des pièces d'origine pour les réparations ?<span class="faq-item__icon"></span></summary>
+          <div class="faq-item__answer"><p>Nous privilégions des pièces d'origine ou de qualité équivalente afin de garantir la fiabilité et la durabilité de la réparation.</p></div>
+        </details>
+      </div>
+
+      <aside class="qbox">
+        <h5 class="qbox__title">Vous avez une question, posez-nous la ici !</h5>
+        <form class="qbox__form" novalidate>
+          <label class="qfield"><span>Nom/Prénom</span>
+            <input type="text" name="qnom" placeholder="Jane Smith" />
+          </label>
+          <label class="qfield"><span>Email</span>
+            <input type="email" name="qemail" placeholder="jane@framer.com" />
+          </label>
+          <label class="qfield"><span>Votre question</span>
+            <textarea name="qmsg" rows="3" placeholder="Posez votre question ici..."></textarea>
+          </label>
+          <button type="submit" class="btn btn--dark btn--block">Soumettre</button>
+        </form>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============ TESTIMONIALS ============ -->
+  <section class="testimonials" id="avis">
+    <header class="testimonials__head">
+      <p class="eyebrow eyebrow--center">• AVIS</p>
+      <h2 class="testimonials__title section-display">Avis Clients</h2>
+      <p class="testimonials__sub">Nos clients nous font confiance</p>
+    </header>
+    <div class="testimonials__grid">
+      <article class="testi">
+        <div class="testi__head">
+          <span class="testi__avatar testi__avatar--m">M</span>
+          <span class="testi__name">Mario SOARES</span>
+        </div>
+        <p class="testi__text">Très professionnel malgré son jeune âge, beaucoup de dextérité, très bonnes explications, prend le temps de bien faire comprendre ses actions, à recommander sans discussion.</p>
+      </article>
+      <article class="testi">
+        <div class="testi__head">
+          <span class="testi__avatar testi__avatar--a">A</span>
+          <span class="testi__name">Aurore Lagarde</span>
+        </div>
+        <p class="testi__text">Professionnel, sympathique, honnête</p>
+      </article>
+      <article class="testi">
+        <div class="testi__head">
+          <img class="testi__avatar" src="assets/images/avatar-client1.png" alt="Swen Boutin" />
+          <span class="testi__name">Swen Boutin</span>
+        </div>
+        <p class="testi__text">Excellent travail 👌🏼 La protection d'écran est parfaite au toucher, fluide à l'utilisation, et résistante pour un usage intensif.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="footer__inner">
+      <div class="footer__brand">
+        <img src="assets/images/logo.png" alt="" width="40" height="40" />
+        <span>ACDJ-Informatique</span>
+      </div>
+      <nav class="footer__cols" aria-label="Pied de page">
+        <div class="footer__col">
+          <p class="footer__col-title">Plan du site</p>
+          <a href="#">Espace client</a>
+          <a href="contact-devis/">Contact / Devis</a>
+          <a href="#pricing">Nos plans</a>
+          <a href="#zones">Zones d'intervention</a>
+          <a href="#faq">FAQ</a>
+          <a href="#">Cookies</a>
+        </div>
+        <div class="footer__col">
+          <p class="footer__col-title">Pages SEO</p>
+          <a href="depannage-informatique-vittel/">Dépannage Vittel</a>
+          <a href="reparation-ordinateur-vittel/">Réparation ordinateur</a>
+          <a href="installation-imprimante-vittel/">Installation imprimante</a>
+          <a href="service-drone-vosges/">Drone Vosges</a>
+        </div>
+        <div class="footer__col">
+          <p class="footer__col-title">Legal</p>
+          <a href="cgv/">CGV</a>
+          <a href="cgu/">CGU</a>
+          <a href="mentions-legales/">Mentions légales</a>
+          <a href="politique-confidentialite/">Politique de confidentialité</a>
+          <a href="#">Dons</a>
+        </div>
+      </nav>
+    </div>
+    <p class="footer__copy">©2026 – Créé par Adwaves</p>
+  </footer>
+
+  <!-- ============ COOKIE BANNER ============ -->
+  <div class="cookie" hidden>
+    <p class="cookie__title">Paramètres des cookies</p>
+    <p class="cookie__text">Nous utilisons des cookies pour améliorer votre expérience, analyser le trafic du site et fournir du contenu personnalisé.</p>
+    <div class="cookie__actions">
+      <button class="cookie__btn cookie__btn--ghost" data-cookie="refuse">Refuser</button>
+      <button class="cookie__btn cookie__btn--solid" data-cookie="accept">Accepter</button>
+    </div>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
