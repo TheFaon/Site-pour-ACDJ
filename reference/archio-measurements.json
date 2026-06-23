@@ -1,0 +1,3433 @@
+{
+  "390": {
+    "pageH": 16917,
+    "items": {
+      "heroSection": {
+        "rect": {
+          "x": 28,
+          "y": 144,
+          "w": 334,
+          "h": 474
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "334px",
+          "height": "474px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Content",
+        "text": "AWARD-WINNING FIRMBusiness growth with expert consultancyAchieve sustainable growth through expert insights, tailored solutions, and trusted"
+      },
+      "heroH1": {
+        "rect": {
+          "x": 28,
+          "y": 202,
+          "w": 334,
+          "h": 162
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "54px",
+          "fontWeight": "300",
+          "lineHeight": "54px",
+          "letterSpacing": "-2.16px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "334px",
+          "height": "162px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Business growth with expert consultancy"
+      },
+      "heroLead": {
+        "rect": {
+          "x": 28,
+          "y": 388,
+          "w": 334,
+          "h": 81
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "Inter",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "27px",
+          "letterSpacing": "-0.36px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "textAlign": "left",
+          "grid": "none",
+          "width": "334px",
+          "height": "81px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Achieve sustainable growth through expert insights, tailored solutions, and trusted support."
+      },
+      "heroBtnPrimary": {
+        "rect": {
+          "x": 28,
+          "y": 493,
+          "w": 153,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(14, 58, 39)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(61, 61, 61, 0.72) 0px 0.602187px 1.08394px -1.25px, rgba(61, 61, 61, 0.64) 0px 2.28853px 4.11936px -2.5px, rgba(61, 61, 61, 0.25) 0px 10px 18px -3.75px, rgba(22, 51, 32, 0.35) 0px 0.706592px 0.706592px -0.583333px, rgba(22, 51, 32, 0.34) 0px 1.80656px 1.80656px -1.16667px, rgba(22, 51, 32, 0.33) 0px 3.62176px 3.62176px -1.75px, rgba(22, 51, 32, 0.3) 0px 6.8656px 6.8656px -2.33333px, rgba(22, 51, 32, 0.26) 0px 13.6468px 13.6468px -2.91667px, rgba(22, 51, 32, 0.15) 0px 30px 30px -3.5px",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "153.375px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "main cta",
+        "text": "Get Started"
+      },
+      "heroBtnSecondary": {
+        "rect": {
+          "x": 197,
+          "y": 493,
+          "w": 164,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(230, 238, 205)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "164.156px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "secondary cta",
+        "text": "Our Services"
+      },
+      "servicesSection": {
+        "rect": {
+          "x": 18,
+          "y": 2044,
+          "w": 354,
+          "h": 3718
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "32px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "3718.39px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "What We Even DoExplore our range of services to discover the perfect solution tailored to your project’s unique needs.Business StrategyCraft"
+      },
+      "serviceTitle": {
+        "rect": {
+          "x": 18,
+          "y": 2044,
+          "w": 354,
+          "h": 42
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "38px",
+          "fontWeight": "300",
+          "lineHeight": "41.8px",
+          "letterSpacing": "-1.52px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "354px",
+          "height": "41.7969px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "What We Even Do"
+      },
+      "serviceCard1": {
+        "rect": {
+          "x": 18,
+          "y": 2214,
+          "w": 354,
+          "h": 733
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "733px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Business StrategyCrafting clear, actionable strategies that align with your vision, ensuring sustainable growth and a competitive edge."
+      },
+      "serviceCard2": {
+        "rect": {
+          "x": 18,
+          "y": 2971,
+          "w": 354,
+          "h": 733
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "733px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Financial AdvisoryProviding expert financial planning, forecasting, and cost optimization to strengthen profitability and long-term stabilit"
+      },
+      "ctaCard": {
+        "rect": {
+          "x": 18,
+          "y": 5494,
+          "w": 354,
+          "h": 268
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "267.594px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "bottom container",
+        "text": "Reach Out for Consultancy InquiriesContact UsOur Services"
+      },
+      "whySection": {
+        "rect": {
+          "x": 18,
+          "y": 5922,
+          "w": 354,
+          "h": 731
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "32px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "730.797px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "Why Even Us ?We go beyond surface-level advice — our consulting approach is built on data, strategy, and executionExpert InsightsOur consult"
+      },
+      "whyTitle": {
+        "rect": {
+          "x": 18,
+          "y": 5922,
+          "w": 354,
+          "h": 42
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "38px",
+          "fontWeight": "300",
+          "lineHeight": "41.8px",
+          "letterSpacing": "-1.52px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "354px",
+          "height": "41.7969px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Why Even Us ?"
+      },
+      "whyCard": {
+        "rect": {
+          "x": 26,
+          "y": 6101,
+          "w": 338,
+          "h": 261
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "14px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "338px",
+          "height": "261px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Expert InsightsOur consultants bring deep industry knowledge to solve your challenges."
+      },
+      "processSection": {
+        "rect": {
+          "x": 18,
+          "y": 7164,
+          "w": 354,
+          "h": 268
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px 24px 32px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "268px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Primary",
+        "text": "1Hassle-Free SchedulingBook your consultation in just a few clicks. We make it easy to connect and start addressing your business needs righ"
+      },
+      "processCard": {
+        "rect": {
+          "x": 18,
+          "y": 7164,
+          "w": 354,
+          "h": 268
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px 24px 32px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "268px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Primary",
+        "text": "1Hassle-Free SchedulingBook your consultation in just a few clicks. We make it easy to connect and start addressing your business needs righ"
+      },
+      "comparisonSection": {
+        "rect": {
+          "x": 18,
+          "y": 8192,
+          "w": 354,
+          "h": 1020
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "32px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "1019.59px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "Why consulting when I can figure it myself ?From modern loft transformations to timeless interior, we bring years of hands-on expertise, an "
+      },
+      "comparisonTable": {
+        "rect": {
+          "x": 18,
+          "y": 8432,
+          "w": 354,
+          "h": 560
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "0px",
+          "padding": "0px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "354px",
+          "height": "560px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "comparison",
+        "text": "BenifitsExpert ConsultingDirect answers and niche relevance.Answer any question.Real experience in niche.Track record of getting results.Exp"
+      },
+      "testimonialsSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "testimonialCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "blogSection": {
+        "rect": {
+          "x": 26,
+          "y": 10950,
+          "w": 338,
+          "h": 513
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px 20px 30px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "338px",
+          "height": "513.375px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Why Good Design is BusinessGood design goes beyond looks—it builds trust, strengthens branding, and drives growth. Discover how design can t"
+      },
+      "blogCard": {
+        "rect": {
+          "x": 26,
+          "y": 10950,
+          "w": 338,
+          "h": 513
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px 20px 30px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "338px",
+          "height": "513.375px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Why Good Design is BusinessGood design goes beyond looks—it builds trust, strengthens branding, and drives growth. Discover how design can t"
+      },
+      "faqSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "footerSection": {
+        "rect": {
+          "x": 1460,
+          "y": 9634,
+          "w": 334,
+          "h": 409
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "30px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "334px",
+          "height": "408.594px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Desktop",
+        "text": "Nicolo TaimeCreative Edge Studio\"A true professional approach! Their vision was translated into clear strategies with unique and compelling "
+      }
+    },
+    "sections": [
+      {
+        "name": "Blur shape",
+        "rect": {
+          "x": -42,
+          "y": 54,
+          "w": 347,
+          "h": 565
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Hero Section",
+        "rect": {
+          "x": 0,
+          "y": 84,
+          "w": 390,
+          "h": 1880
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Wrapper",
+        "rect": {
+          "x": 18,
+          "y": 104,
+          "w": 354,
+          "h": 1780
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 104,
+          "w": 354,
+          "h": 1780
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Left Content",
+        "rect": {
+          "x": 28,
+          "y": 144,
+          "w": 334,
+          "h": 474
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Content",
+        "rect": {
+          "x": 28,
+          "y": 144,
+          "w": 334,
+          "h": 474
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "right content",
+        "rect": {
+          "x": 28,
+          "y": 666,
+          "w": 334,
+          "h": 1178
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "videos/Images",
+        "rect": {
+          "x": 28,
+          "y": 666,
+          "w": 334,
+          "h": 1063
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Services",
+        "rect": {
+          "x": 0,
+          "y": 1964,
+          "w": 390,
+          "h": 3878
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 2044,
+          "w": 354,
+          "h": 3718
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "cards",
+        "rect": {
+          "x": 18,
+          "y": 2214,
+          "w": 354,
+          "h": 3076
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "vertical",
+        "rect": {
+          "x": 18,
+          "y": 2214,
+          "w": 354,
+          "h": 733
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "vertical",
+        "rect": {
+          "x": 18,
+          "y": 2971,
+          "w": 354,
+          "h": 733
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "vertical",
+        "rect": {
+          "x": 18,
+          "y": 3728,
+          "w": 354,
+          "h": 769
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "vertical",
+        "rect": {
+          "x": 18,
+          "y": 4521,
+          "w": 354,
+          "h": 769
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "overlay",
+        "rect": {
+          "x": 0,
+          "y": 5268,
+          "w": 390,
+          "h": 576
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "bottom container",
+        "rect": {
+          "x": 18,
+          "y": 5494,
+          "w": 354,
+          "h": 268
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Why Us",
+        "rect": {
+          "x": 0,
+          "y": 5842,
+          "w": 390,
+          "h": 891
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 5922,
+          "w": 354,
+          "h": 731
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 18,
+          "y": 6093,
+          "w": 354,
+          "h": 560
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": -356,
+          "y": 6093,
+          "w": 354,
+          "h": 277
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 18,
+          "y": 6093,
+          "w": 354,
+          "h": 277
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 392,
+          "y": 6093,
+          "w": 354,
+          "h": 277
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "container",
+        "rect": {
+          "x": -348,
+          "y": 6101,
+          "w": 338,
+          "h": 261
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "container",
+        "rect": {
+          "x": 26,
+          "y": 6101,
+          "w": 338,
+          "h": 261
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "container",
+        "rect": {
+          "x": 400,
+          "y": 6101,
+          "w": 338,
+          "h": 261
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 6166,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 6166,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -165,
+          "y": 6166,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -165,
+          "y": 6166,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "shape 2",
+        "rect": {
+          "x": -2,
+          "y": 6168,
+          "w": 347,
+          "h": 565
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Process",
+        "rect": {
+          "x": 0,
+          "y": 6733,
+          "w": 390,
+          "h": 1380
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 6813,
+          "w": 354,
+          "h": 1220
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Left Content",
+        "rect": {
+          "x": 18,
+          "y": 6813,
+          "w": 354,
+          "h": 320
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Right Content",
+        "rect": {
+          "x": 18,
+          "y": 7164,
+          "w": 354,
+          "h": 868
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 18,
+          "y": 7164,
+          "w": 354,
+          "h": 268
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 18,
+          "y": 7452,
+          "w": 354,
+          "h": 268
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 18,
+          "y": 7740,
+          "w": 354,
+          "h": 292
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Comparison table",
+        "rect": {
+          "x": 0,
+          "y": 8112,
+          "w": 390,
+          "h": 1180
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 8192,
+          "w": 354,
+          "h": 1020
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "shape 2",
+        "rect": {
+          "x": -2,
+          "y": 8283,
+          "w": 347,
+          "h": 565
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 18,
+          "y": 8432,
+          "w": 354,
+          "h": 780
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "comparison",
+        "rect": {
+          "x": 18,
+          "y": 8432,
+          "w": 354,
+          "h": 560
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 8725,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 8725,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -165,
+          "y": 8725,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -165,
+          "y": 8725,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Testimonials",
+        "rect": {
+          "x": 0,
+          "y": 9292,
+          "w": 390,
+          "h": 1309
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 9372,
+          "w": 354,
+          "h": 1149
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 18,
+          "y": 9612,
+          "w": 354,
+          "h": 829
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Carousel for mobile",
+        "rect": {
+          "x": 18,
+          "y": 9612,
+          "w": 354,
+          "h": 453
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 744,
+          "y": 9622,
+          "w": 334,
+          "h": 433
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 28,
+          "y": 9634,
+          "w": 334,
+          "h": 409
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 386,
+          "y": 9634,
+          "w": 334,
+          "h": 409
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 1102,
+          "y": 9634,
+          "w": 334,
+          "h": 409
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 1460,
+          "y": 9634,
+          "w": 334,
+          "h": 409
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Stats",
+        "rect": {
+          "x": 18,
+          "y": 10088,
+          "w": 354,
+          "h": 352
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "Blog Section",
+        "rect": {
+          "x": 0,
+          "y": 10600,
+          "w": 390,
+          "h": 1781
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 10680,
+          "w": 354,
+          "h": 1621
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Content",
+        "rect": {
+          "x": 18,
+          "y": 10942,
+          "w": 354,
+          "h": 1359
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Mobile",
+        "rect": {
+          "x": 18,
+          "y": 10942,
+          "w": 354,
+          "h": 529
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "container",
+        "rect": {
+          "x": 26,
+          "y": 10950,
+          "w": 338,
+          "h": 513
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 11257,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 11257,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -165,
+          "y": 11257,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -165,
+          "y": 11257,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Mobile",
+        "rect": {
+          "x": 18,
+          "y": 11495,
+          "w": 354,
+          "h": 490
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "container",
+        "rect": {
+          "x": 26,
+          "y": 11503,
+          "w": 338,
+          "h": 474
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "shape 2",
+        "rect": {
+          "x": -2,
+          "y": 11816,
+          "w": 347,
+          "h": 565
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Faq's",
+        "rect": {
+          "x": 0,
+          "y": 12381,
+          "w": 390,
+          "h": 1455
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 18,
+          "y": 12461,
+          "w": 354,
+          "h": 1295
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "grad",
+        "rect": {
+          "x": 18,
+          "y": 12708,
+          "w": 354,
+          "h": 486
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Content",
+        "rect": {
+          "x": 18,
+          "y": 12723,
+          "w": 354,
+          "h": 1033
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Primary",
+        "rect": {
+          "x": 18,
+          "y": 12723,
+          "w": 354,
+          "h": 457
+        },
+        "bg": "rgb(0, 0, 0)"
+      },
+      {
+        "name": "faq container",
+        "rect": {
+          "x": 18,
+          "y": 13204,
+          "w": 354,
+          "h": 552
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "FAQs",
+        "rect": {
+          "x": 18,
+          "y": 13204,
+          "w": 354,
+          "h": 480
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "mobile",
+        "rect": {
+          "x": 18,
+          "y": 13204,
+          "w": 354,
+          "h": 480
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Light",
+        "rect": {
+          "x": 18,
+          "y": 13204,
+          "w": 437,
+          "h": 306
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Light",
+        "rect": {
+          "x": 18,
+          "y": 13372,
+          "w": 437,
+          "h": 306
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Light",
+        "rect": {
+          "x": 18,
+          "y": 13460,
+          "w": 437,
+          "h": 306
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  "1024": {
+    "pageH": 11505,
+    "items": {
+      "heroSection": {
+        "rect": {
+          "x": 50,
+          "y": 104,
+          "w": 924,
+          "h": 1315
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "48px",
+          "padding": "40px 20px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "1314.92px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "AWARD-WINNING FIRMBusiness growth with expert consultancyAchieve sustainable growth through expert insights, tailored solutions, and trusted"
+      },
+      "heroH1": {
+        "rect": {
+          "x": 70,
+          "y": 202,
+          "w": 720,
+          "h": 144
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "72px",
+          "fontWeight": "300",
+          "lineHeight": "72px",
+          "letterSpacing": "-2.88px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "720px",
+          "height": "144px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Business growth with expert consultancy"
+      },
+      "heroLead": {
+        "rect": {
+          "x": 70,
+          "y": 370,
+          "w": 720,
+          "h": 54
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "Inter",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "27px",
+          "letterSpacing": "-0.36px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "textAlign": "left",
+          "grid": "none",
+          "width": "720px",
+          "height": "54px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Achieve sustainable growth through expert insights, tailored solutions, and trusted support."
+      },
+      "heroBtnPrimary": {
+        "rect": {
+          "x": 682,
+          "y": 953,
+          "w": 125,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(14, 58, 39)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(61, 61, 61, 0.72) 0px 0.602187px 1.08394px -1.25px, rgba(61, 61, 61, 0.64) 0px 2.28853px 4.11936px -2.5px, rgba(61, 61, 61, 0.25) 0px 10px 18px -3.75px, rgba(22, 51, 32, 0.35) 0px 0.706592px 0.706592px -0.583333px, rgba(22, 51, 32, 0.34) 0px 1.80656px 1.80656px -1.16667px, rgba(22, 51, 32, 0.33) 0px 3.62176px 3.62176px -1.75px, rgba(22, 51, 32, 0.3) 0px 6.8656px 6.8656px -2.33333px, rgba(22, 51, 32, 0.26) 0px 13.6468px 13.6468px -2.91667px, rgba(22, 51, 32, 0.15) 0px 30px 30px -3.5px",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "125.375px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "main cta",
+        "text": "Get Started"
+      },
+      "heroBtnSecondary": {
+        "rect": {
+          "x": 239,
+          "y": 448,
+          "w": 164,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(230, 238, 205)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "164.156px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "secondary cta",
+        "text": "Our Services"
+      },
+      "servicesSection": {
+        "rect": {
+          "x": 50,
+          "y": 1619,
+          "w": 924,
+          "h": 1422
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "44px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "1421.59px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "What We Even DoExplore our range of services to discover the perfect solution tailored to your project’s unique needs.Business StrategyCraft"
+      },
+      "serviceTitle": {
+        "rect": {
+          "x": 124,
+          "y": 1619,
+          "w": 776,
+          "h": 42
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "38px",
+          "fontWeight": "300",
+          "lineHeight": "41.8px",
+          "letterSpacing": "-1.52px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "776px",
+          "height": "41.7969px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "What We Even Do"
+      },
+      "serviceCard1": {
+        "rect": {
+          "x": 50,
+          "y": 1795,
+          "w": 450,
+          "h": 378
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "450px",
+          "height": "378px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Business StrategyCrafting clear, actionable strategies that align with your vision, ensuring sustainable growth and a competitive edge."
+      },
+      "serviceCard2": {
+        "rect": {
+          "x": 524,
+          "y": 1783,
+          "w": 450,
+          "h": 402
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "450px",
+          "height": "402px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Financial AdvisoryProviding expert financial planning, forecasting, and cost optimization to strengthen profitability and long-term stabilit"
+      },
+      "ctaCard": {
+        "rect": {
+          "x": 92,
+          "y": 2839,
+          "w": 840,
+          "h": 202
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "44px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "840px",
+          "height": "201.797px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "bottom container",
+        "text": "Reach Out for Consultancy InquiriesContact UsOur Services"
+      },
+      "whySection": {
+        "rect": {
+          "x": 50,
+          "y": 3241,
+          "w": 924,
+          "h": 563
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "54px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "562.797px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "Why Even Us ?We go beyond surface-level advice — our consulting approach is built on data, strategy, and executionExpert InsightsOur consult"
+      },
+      "whyTitle": {
+        "rect": {
+          "x": 92,
+          "y": 3241,
+          "w": 840,
+          "h": 42
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "38px",
+          "fontWeight": "300",
+          "lineHeight": "41.8px",
+          "letterSpacing": "-1.52px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "840px",
+          "height": "41.7969px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Why Even Us ?"
+      },
+      "whyCard": {
+        "rect": {
+          "x": -1358,
+          "y": 3422,
+          "w": 436,
+          "h": 261
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "14px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "436px",
+          "height": "261px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Expert InsightsOur consultants bring deep industry knowledge to solve your challenges."
+      },
+      "processSection": {
+        "rect": {
+          "x": 50,
+          "y": 4003,
+          "w": 924,
+          "h": 844
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "44px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "844px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "Proven Process for Your GoalsOur step-by-step approach simplifies challenges, delivers tailored strategies, and drives measurable results.Ge"
+      },
+      "processCard": {
+        "rect": {
+          "x": 534,
+          "y": 4003,
+          "w": 440,
+          "h": 268
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px 24px 32px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "440px",
+          "height": "268px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Primary",
+        "text": "1Hassle-Free SchedulingBook your consultation in just a few clicks. We make it easy to connect and start addressing your business needs righ"
+      },
+      "comparisonSection": {
+        "rect": {
+          "x": 50,
+          "y": 5047,
+          "w": 924,
+          "h": 823
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "54px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "822.797px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Container",
+        "text": "Why consulting when I can figure it myself ?From modern loft transformations to timeless interior, we bring years of hands-on expertise, an "
+      },
+      "comparisonTable": {
+        "rect": {
+          "x": 50,
+          "y": 5221,
+          "w": 924,
+          "h": 560
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "0px",
+          "padding": "0px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "560px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "comparison",
+        "text": "BenifitsBrowsing The InternetExpert ConsultingDirect answers and niche relevance.Answer any question.Real experience in niche.Track record o"
+      },
+      "testimonialsSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "testimonialCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "blogSection": {
+        "rect": {
+          "x": 50,
+          "y": 7281,
+          "w": 924,
+          "h": 718
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "924px",
+          "height": "718.438px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Content",
+        "text": "Why Good Design is BusinessGood design goes beyond looks—it builds trust, strengthens branding, and drives growth. Discover how design can t"
+      },
+      "blogCard": {
+        "rect": {
+          "x": 58,
+          "y": 7289,
+          "w": 434,
+          "h": 533
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px 20px 30px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "434px",
+          "height": "533.438px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Why Good Design is BusinessGood design goes beyond looks—it builds trust, strengthens branding, and drives growth. Discover how design can t"
+      },
+      "faqSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "footerSection": {
+        "rect": {
+          "x": 8783,
+          "y": 6240,
+          "w": 600,
+          "h": 273
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "30px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "16px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "600px",
+          "height": "272.797px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Desktop",
+        "text": "Nicolo TaimeCreative Edge Studio\"A true professional approach! Their vision was translated into clear strategies with unique and compelling "
+      }
+    },
+    "sections": [
+      {
+        "name": "Hero Section",
+        "rect": {
+          "x": 0,
+          "y": 84,
+          "w": 1024,
+          "h": 1435
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Wrapper",
+        "rect": {
+          "x": 50,
+          "y": 104,
+          "w": 924,
+          "h": 1315
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 104,
+          "w": 924,
+          "h": 1315
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "right content",
+        "rect": {
+          "x": 70,
+          "y": 621,
+          "w": 884,
+          "h": 758
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "videos/Images",
+        "rect": {
+          "x": 70,
+          "y": 621,
+          "w": 884,
+          "h": 680
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Services",
+        "rect": {
+          "x": 0,
+          "y": 1519,
+          "w": 1024,
+          "h": 1622
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 1619,
+          "w": 924,
+          "h": 1422
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "cards",
+        "rect": {
+          "x": 50,
+          "y": 1783,
+          "w": 924,
+          "h": 828
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "overlay",
+        "rect": {
+          "x": 0,
+          "y": 2567,
+          "w": 1024,
+          "h": 576
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Why Us",
+        "rect": {
+          "x": 0,
+          "y": 3141,
+          "w": 1024,
+          "h": 763
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 3241,
+          "w": 924,
+          "h": 563
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 3336,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 3336,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": 469,
+          "y": 3336,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": 469,
+          "y": 3336,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 50,
+          "y": 3414,
+          "w": 924,
+          "h": 389
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Process",
+        "rect": {
+          "x": 0,
+          "y": 3903,
+          "w": 1024,
+          "h": 1044
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 4003,
+          "w": 924,
+          "h": 844
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Comparison table",
+        "rect": {
+          "x": 0,
+          "y": 4947,
+          "w": 1024,
+          "h": 1023
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 5047,
+          "w": 924,
+          "h": 823
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 50,
+          "y": 5221,
+          "w": 924,
+          "h": 649
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "comparison",
+        "rect": {
+          "x": 50,
+          "y": 5221,
+          "w": 924,
+          "h": 560
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 5403,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 5403,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": 469,
+          "y": 5403,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": 469,
+          "y": 5403,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Testimonials",
+        "rect": {
+          "x": 0,
+          "y": 5970,
+          "w": 1024,
+          "h": 1037
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 6070,
+          "w": 924,
+          "h": 837
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "content",
+        "rect": {
+          "x": 50,
+          "y": 6234,
+          "w": 924,
+          "h": 581
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Stats",
+        "rect": {
+          "x": 50,
+          "y": 6543,
+          "w": 924,
+          "h": 272
+        },
+        "bg": "rgb(246, 244, 237)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 6975,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 6975,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": 469,
+          "y": 6975,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": 469,
+          "y": 6975,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Blog Section",
+        "rect": {
+          "x": 0,
+          "y": 7007,
+          "w": 1024,
+          "h": 1092
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 7107,
+          "w": 924,
+          "h": 892
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Content",
+        "rect": {
+          "x": 50,
+          "y": 7281,
+          "w": 924,
+          "h": 718
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Faq's",
+        "rect": {
+          "x": 0,
+          "y": 8099,
+          "w": 1024,
+          "h": 830
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 8199,
+          "w": 924,
+          "h": 630
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Content",
+        "rect": {
+          "x": 50,
+          "y": 8373,
+          "w": 924,
+          "h": 456
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Our Team",
+        "rect": {
+          "x": 0,
+          "y": 8929,
+          "w": 1024,
+          "h": 1740
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Container",
+        "rect": {
+          "x": 50,
+          "y": 9029,
+          "w": 924,
+          "h": 1540
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cards Container",
+        "rect": {
+          "x": 50,
+          "y": 9203,
+          "w": 924,
+          "h": 1239
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": -473,
+          "y": 9981,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": -473,
+          "y": 9981,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "scribbble",
+        "rect": {
+          "x": 469,
+          "y": 9981,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Cloud",
+        "rect": {
+          "x": 469,
+          "y": 9981,
+          "w": 1147,
+          "h": 753
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Tablet",
+        "rect": {
+          "x": 0,
+          "y": 10519,
+          "w": 1024,
+          "h": 836
+        },
+        "bg": "rgb(236, 235, 228)"
+      }
+    ]
+  },
+  "1440": {
+    "pageH": 10130,
+    "items": {
+      "heroSection": {
+        "rect": {
+          "x": 50,
+          "y": 104,
+          "w": 1340,
+          "h": 657
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "64px",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "36px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1340px",
+          "height": "656.656px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Wrapper",
+        "text": "AWARD-WINNING FIRMBusiness growth with expert consultancyAchieve sustainable growth through expert insights, tailored solutions, and trusted"
+      },
+      "heroH1": {
+        "rect": {
+          "x": 120,
+          "y": 262,
+          "w": 576,
+          "h": 140
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "70px",
+          "fontWeight": "300",
+          "lineHeight": "70px",
+          "letterSpacing": "-2.8px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "576px",
+          "height": "140px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Business growth with expert consultancy"
+      },
+      "heroLead": {
+        "rect": {
+          "x": 120,
+          "y": 426,
+          "w": 576,
+          "h": 54
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgba(0, 0, 0, 0.85)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "Inter",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "27px",
+          "letterSpacing": "-0.36px",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "textAlign": "left",
+          "grid": "none",
+          "width": "576px",
+          "height": "54px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Achieve sustainable growth through expert insights, tailored solutions, and trusted support."
+      },
+      "heroBtnPrimary": {
+        "rect": {
+          "x": 890,
+          "y": 950,
+          "w": 125,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(14, 58, 39)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(61, 61, 61, 0.72) 0px 0.602187px 1.08394px -1.25px, rgba(61, 61, 61, 0.64) 0px 2.28853px 4.11936px -2.5px, rgba(61, 61, 61, 0.25) 0px 10px 18px -3.75px, rgba(22, 51, 32, 0.35) 0px 0.706592px 0.706592px -0.583333px, rgba(22, 51, 32, 0.34) 0px 1.80656px 1.80656px -1.16667px, rgba(22, 51, 32, 0.33) 0px 3.62176px 3.62176px -1.75px, rgba(22, 51, 32, 0.3) 0px 6.8656px 6.8656px -2.33333px, rgba(22, 51, 32, 0.26) 0px 13.6468px 13.6468px -2.91667px, rgba(22, 51, 32, 0.15) 0px 30px 30px -3.5px",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "125.375px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "main cta",
+        "text": "Get Started"
+      },
+      "heroBtnSecondary": {
+        "rect": {
+          "x": 289,
+          "y": 504,
+          "w": 164,
+          "h": 48
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "6px",
+          "padding": "12px 24px",
+          "bg": "rgb(230, 238, 205)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "10px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "164.156px",
+          "height": "48px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "secondary cta",
+        "text": "Our Services"
+      },
+      "servicesSection": {
+        "rect": {
+          "x": 0,
+          "y": 861,
+          "w": 1440,
+          "h": 1690
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 50px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "1690.31px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Services",
+        "text": "What We Even DoExplore our range of services to discover the perfect solution tailored to your project’s unique needs.Business StrategyCraft"
+      },
+      "serviceTitle": {
+        "rect": {
+          "x": 332,
+          "y": 961,
+          "w": 776,
+          "h": 48
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "44px",
+          "fontWeight": "300",
+          "lineHeight": "48.4px",
+          "letterSpacing": "-1.76px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "776px",
+          "height": "48.4062px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "What We Even Do"
+      },
+      "serviceCard1": {
+        "rect": {
+          "x": 120,
+          "y": 1131,
+          "w": 588,
+          "h": 430
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "588px",
+          "height": "429.75px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Business StrategyCrafting clear, actionable strategies that align with your vision, ensuring sustainable growth and a competitive edge."
+      },
+      "serviceCard2": {
+        "rect": {
+          "x": 732,
+          "y": 1131,
+          "w": 588,
+          "h": 430
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "10px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "588px",
+          "height": "429.75px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "vertical",
+        "text": "Financial AdvisoryProviding expert financial planning, forecasting, and cost optimization to strengthen profitability and long-term stabilit"
+      },
+      "ctaCard": {
+        "rect": {
+          "x": 300,
+          "y": 2243,
+          "w": 840,
+          "h": 208
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "44px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "840px",
+          "height": "208.406px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "bottom container",
+        "text": "Reach Out for Consultancy InquiriesContact UsOur Services"
+      },
+      "whySection": {
+        "rect": {
+          "x": 0,
+          "y": 2551,
+          "w": 1440,
+          "h": 769
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 50px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "769.406px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Why Us",
+        "text": "Why Even Us ?We go beyond surface-level advice — our consulting approach is built on data, strategy, and executionExpert InsightsOur consult"
+      },
+      "whyTitle": {
+        "rect": {
+          "x": 300,
+          "y": 2651,
+          "w": 840,
+          "h": 48
+        },
+        "style": {
+          "display": "block",
+          "position": "static",
+          "gap": "normal",
+          "padding": "0px",
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "\"Crimson Pro\"",
+          "fontSize": "44px",
+          "fontWeight": "300",
+          "lineHeight": "48.4px",
+          "letterSpacing": "-1.76px",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "center",
+          "grid": "none",
+          "width": "840px",
+          "height": "48.4062px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": null,
+        "text": "Why Even Us ?"
+      },
+      "whyCard": {
+        "rect": {
+          "x": -941,
+          "y": 2839,
+          "w": 337,
+          "h": 261
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "14px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "337.328px",
+          "height": "261px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Expert InsightsOur consultants bring deep industry knowledge to solve your challenges."
+      },
+      "processSection": {
+        "rect": {
+          "x": 0,
+          "y": 3320,
+          "w": 1440,
+          "h": 972
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 50px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "972px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Process",
+        "text": "Proven Process for Your GoalsOur step-by-step approach simplifies challenges, delivers tailored strategies, and drives measurable results.Ge"
+      },
+      "processCard": {
+        "rect": {
+          "x": 742,
+          "y": 3420,
+          "w": 578,
+          "h": 244
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "24px 24px 32px",
+          "bg": "rgb(246, 244, 237)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "18px",
+          "boxShadow": "rgba(255, 255, 255, 0.62) 3px 3px 47px 5px inset",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "578px",
+          "height": "244px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Primary",
+        "text": "1Hassle-Free SchedulingBook your consultation in just a few clicks. We make it easy to connect and start addressing your business needs righ"
+      },
+      "comparisonSection": {
+        "rect": {
+          "x": 0,
+          "y": 4292,
+          "w": 1440,
+          "h": 1029
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 50px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "1029.41px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Comparison table",
+        "text": "Why consulting when I can figure it myself ?From modern loft transformations to timeless interior, we bring years of hands-on expertise, an "
+      },
+      "comparisonTable": {
+        "rect": {
+          "x": 120,
+          "y": 4573,
+          "w": 1200,
+          "h": 560
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "0px",
+          "padding": "0px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1200px",
+          "height": "560px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "comparison",
+        "text": "BenifitsBrowsing The InternetExpert ConsultingDirect answers and niche relevance.Answer any question.Real experience in niche.Track record o"
+      },
+      "testimonialsSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "testimonialCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "blogSection": {
+        "rect": {
+          "x": 0,
+          "y": 6272,
+          "w": 1440,
+          "h": 1185
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 50px",
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "1184.61px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Blog Section",
+        "text": "Insights That Drive GrowthStay ahead with expert resources, practical strategies, and industry insights designed to help your business make "
+      },
+      "blogCard": {
+        "rect": {
+          "x": 128,
+          "y": 6561,
+          "w": 572,
+          "h": 619
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "24px",
+          "padding": "20px 20px 30px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 238)",
+          "borderRadius": "18px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 238)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "572px",
+          "height": "619.203px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "container",
+        "text": "Why Good Design is BusinessGood design goes beyond looks—it builds trust, strengthens branding, and drives growth. Discover how design can t"
+      },
+      "faqSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamSection": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "teamCard": {
+        "rect": null,
+        "style": null,
+        "name": null,
+        "text": ""
+      },
+      "footerSection": {
+        "rect": {
+          "x": 0,
+          "y": 9144,
+          "w": 1440,
+          "h": 836
+        },
+        "style": {
+          "display": "flex",
+          "position": "relative",
+          "gap": "10px",
+          "padding": "100px 40px 140px",
+          "bg": "rgb(236, 235, 228)",
+          "border": "0px none rgb(0, 0, 0)",
+          "borderRadius": "0px",
+          "boxShadow": "none",
+          "font": "sans-serif",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "color": "rgb(0, 0, 0)",
+          "textAlign": "start",
+          "grid": "none",
+          "width": "1440px",
+          "height": "835.969px",
+          "opacity": "1",
+          "transform": "none"
+        },
+        "name": "Desktop",
+        "text": "archio@mail.comArchioAchieve sustainable growth through expert insights, tailored solutions, and trusted support.HomeTestimonialsGet Started"
+      }
+    },
+    "sections": [
+      {
+        "name": "Hero Section",
+        "rect": {
+          "x": 0,
+          "y": 84,
+          "w": 1440,
+          "h": 777
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Wrapper",
+        "rect": {
+          "x": 50,
+          "y": 104,
+          "w": 1340,
+          "h": 657
+        },
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "name": "Services",
+        "rect": {
+          "x": 0,
+          "y": 861,
+          "w": 1440,
+          "h": 1690
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "overlay",
+        "rect": {
+          "x": 0,
+          "y": 1977,
+          "w": 1440,
+          "h": 576
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Why Us",
+        "rect": {
+          "x": 0,
+          "y": 2551,
+          "w": 1440,
+          "h": 769
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Process",
+        "rect": {
+          "x": 0,
+          "y": 3320,
+          "w": 1440,
+          "h": 972
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Comparison table",
+        "rect": {
+          "x": 0,
+          "y": 4292,
+          "w": 1440,
+          "h": 1029
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Testimonials",
+        "rect": {
+          "x": 0,
+          "y": 5322,
+          "w": 1440,
+          "h": 951
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Blog Section",
+        "rect": {
+          "x": 0,
+          "y": 6272,
+          "w": 1440,
+          "h": 1185
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Faq's",
+        "rect": {
+          "x": 0,
+          "y": 7457,
+          "w": 1440,
+          "h": 820
+        },
+        "bg": "rgb(236, 235, 228)"
+      },
+      {
+        "name": "Our Team",
+        "rect": {
+          "x": 0,
+          "y": 8277,
+          "w": 1440,
+          "h": 1016
+        },
+        "bg": "rgb(255, 255, 255)"
+      },
+      {
+        "name": "Desktop",
+        "rect": {
+          "x": 0,
+          "y": 9144,
+          "w": 1440,
+          "h": 836
+        },
+        "bg": "rgb(236, 235, 228)"
+      }
+    ]
+  }
+}
